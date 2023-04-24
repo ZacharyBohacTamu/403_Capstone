@@ -4,7 +4,7 @@ import java.io.FileOutputStream
 import java.awt.Color
 import java.awt.image.BufferedImage
 
-//image processing Demo 1 - 4/23/2023
+//image processing Demo 2 - 4/23/2023
 
 //a data class that is called Pixel for future use
 data class Pixel(val x: Int, val y: Int)
