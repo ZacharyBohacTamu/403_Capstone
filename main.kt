@@ -179,6 +179,5 @@ fun main() {
         var max = findMax(differentPixelsList) // finds the section with the most pixels
         var center = findCenter(max) // finds the center of the bullet shot 
         println("Center of the bullet is at $center")
-    //}
 }
   
